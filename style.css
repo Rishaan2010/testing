@@ -1,0 +1,58 @@
+
+body{
+  text-align:center;
+}  
+
+#firstp{
+  word-spacing: 10px;
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 80px;
+}
+
+#reason1{
+  color:red;
+  font-size:20px;
+}
+
+
+#image1
+{
+  border-style:solid;
+  border-color:#689F38
+  border: 1px 
+  border-radius: 80px;
+  padding: 5px;
+  width: 450px;
+}
+#reason2{
+  font-size:50px;
+}
+#image2
+{
+  
+}
+#reason3{
+  font-size:50px;
+}
+#image3
+{
+  
+}
+#pthree{
+  color:green;
+}
+#reason4{
+  font-size:50px;
+}
+#image4
+{
+  
+}
+#reason5{
+  font-size:50px;
+}
+#image5
+{
+  
+}
